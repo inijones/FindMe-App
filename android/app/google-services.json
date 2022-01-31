@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011065665713",
+    "project_id": "findme-app-abb25",
+    "storage_bucket": "findme-app-abb25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011065665713:android:f79ded9331496b9d654a90",
+        "android_client_info": {
+          "package_name": "it.find_me_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011065665713-k8974v78jhpu22j77f3slfn5gvf8df9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Tgx9er6qHIDoz0mtGdFBxIw7xxtDszs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011065665713-k8974v78jhpu22j77f3slfn5gvf8df9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
